@@ -16,23 +16,23 @@
   不居中直接new</br>
  surfce = new CustomSurfaceView(this, url, false);</br>
  传入不同参数实现绘制</br>
-            case R.id.bianjia_0:
-                surfce.setState(0);//绘制矩形
-                break;
-            case R.id.bianjia_1:
-                surfce.setState(1);//绘制圆
-                break;
-            case R.id.bianjia_2:
-                surfce.setState(2);//绘制箭头
-                break;
-            case R.id.bianjia_3:
-                surfce.setState(3);//铅笔绘制
-                break;
-            case R.id.bianjia_4:
-                surfce.setState(4);//输入文字
-                break;
-            case R.id.bianjia_5:
-                surfce.revocation();//擦除上一步
-                break;
-            case R.id.bianjia_6:
-                Bitmap bm = surfce.getBitmap();//获取最终的图片bitmap
+            case R.id.bianjia_0:</br>
+                surfce.setState(0);//绘制矩形</br>
+                break;</br>
+            case R.id.bianjia_1:</br>
+                surfce.setState(1);//绘制圆</br>
+                break;</br>
+            case R.id.bianjia_2:</br>
+                surfce.setState(2);//绘制箭头:</br>
+                break;</br>
+            case R.id.bianjia_3:</br>
+                surfce.setState(3);//铅笔绘制</br>
+                break;</br>
+            case R.id.bianjia_4:</br>
+                surfce.setState(4);//输入文字</br>
+                break;</br>
+            case R.id.bianjia_5:</br>
+                surfce.revocation();//擦除上一步</br>
+                break;</br>
+            case R.id.bianjia_6:</br>
+                Bitmap bm = surfce.getBitmap();//获取最终的图片bitmap</br>
