@@ -1,13 +1,13 @@
 # ImageEditor
 仿QQ图片编辑器，根据手势在图片上画矩形，圆，箭头，铅笔，擦除功能</br>
-新的项目中需要做一个类似QQ截图编辑图片的功能</br>
-1.矩形框</br></br>
+新的项目中需要做一个类似QQ截图随手势编辑图片的功能</br></br>
+1.绘制矩形框</br></br>
 ![image](https://github.com/yangzhidan/ImageEditor/blob/master/resultPic/0253F9CFE860517F25660C364DA22E04.jpg)</br></br>
-2.圆</br></br>
+2.绘制圆</br></br>
 ![image](https://github.com/yangzhidan/ImageEditor/blob/master/resultPic/E762357186E9CD1566E8E6BBC692812B.jpg)</br></br>
-3.箭头</br></br>
+3.绘制箭头</br></br>
 ![image](https://github.com/yangzhidan/ImageEditor/blob/master/resultPic/58D93297EA25BDD5183C8F0D6C4F72CD.jpg)</br></br>
-4.铅笔</br></br>
+4.铅笔画线</br></br>
 ![image](https://github.com/yangzhidan/ImageEditor/blob/master/resultPic/3019C33D656C73C8C151146F20C0EC52.jpg)</br></br>
 5.文字输入</br></br>
 ![image](https://github.com/yangzhidan/ImageEditor/blob/master/resultPic/D376FC2237A9A297FB67505F420D3C41.jpg)</br></br>
