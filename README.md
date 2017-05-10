@@ -1,5 +1,5 @@
 # ImageEditor
-仿QQ图片编辑器，根据手势在图片上画矩形，圆，箭头，铅笔，擦除功能
+仿QQ图片编辑器，根据手势在图片上画矩形，圆，箭头，铅笔，擦除功能</br>
 1.矩形框
 ![image](https://github.com/yangzhidan/ImageEditor/blob/master/resultPic/0253F9CFE860517F25660C364DA22E04.jpg)
 2.圆
